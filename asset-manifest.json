@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CountClicsReact/static/css/main.a775915b.css",
+    "main.js": "/CountClicsReact/static/js/main.3744f52d.js",
+    "static/media/sonic.png": "/CountClicsReact/static/media/sonic.e3cf69f04d9bf7f470f8.png",
+    "index.html": "/CountClicsReact/index.html",
+    "main.a775915b.css.map": "/CountClicsReact/static/css/main.a775915b.css.map",
+    "main.3744f52d.js.map": "/CountClicsReact/static/js/main.3744f52d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a775915b.css",
+    "static/js/main.3744f52d.js"
+  ]
+}
